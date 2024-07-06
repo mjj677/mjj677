@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on chatPFQ - A real-time messaging application that uses multiple ML models integrated into a server built with Node.js, Express and Socket.IO, that automatically categorise and detect the sentiment of an incoming message.<br><br>🌱 I’m currently learning Next.js | Three.js | Python | C | TypeScript<br><br>👯 I’m looking to collaborate on anything! I'm keen to expand my skillset, so whether it's a personal project or open-source contribution, give me a shout!<br><br>📫 How to reach me - mattj.johnston7@gmail.com
 
 
